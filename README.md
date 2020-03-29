@@ -1,5 +1,6 @@
 # Tic-Tac-Toe
 A simple Tic Tac Toe applet game written in Java. 
+
 The games includes an unbeatable AI oppenent; however, it takes the first move. 
 
 # How to run it?
